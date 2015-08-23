@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#shareTo {
+    width: 100px;
+    height: 200px;
+    background: #88ff00;
+    position: absolute;
+    top: 50px;    
+}
+#shareTo ul{
+    text-align: center;
+    line-height: 60px;
+    list-style-type: none;
+}
+#shareTo span {
+    width: 30px;
+    height: 60px;
+    padding: 10px 0;
+    background: #ffcc88;
+    position: absolute;
+    right: -30px;
+    top: 60px;
+    text-align: center;
+    cursor: pointer;
+}
+.hide{
+    left: -100px;
+}
